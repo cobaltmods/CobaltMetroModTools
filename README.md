@@ -1,4 +1,6 @@
-# metro_vfx — Metro Exodus / Enhanced Edition modding toolkit
+# Cobalt Metro Exodus Mod Tools
+metro_vfx — Metro Exodus / Enhanced Edition modding toolkit
+https://www.nexusmods.com/metroexodus/mods/129
 
 A small, dependency-free (Python 3 + ffmpeg for audio) toolkit for building
 real asset-replacement mods for **Metro Exodus** and **Metro Exodus PC Enhanced
